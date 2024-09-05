@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Conversational AI graduate course</title>
+    <link>https://conversational-AI-graduate-course.github.com/posts/</link>
+    <description>Recent content in Posts on Conversational AI graduate course</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 12:38:31 +0200</lastBuildDate>
+    <atom:link href="https://conversational-AI-graduate-course.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://conversational-AI-graduate-course.github.com/posts/my-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 12:38:31 +0200</pubDate>
+      <guid>https://conversational-AI-graduate-course.github.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to the graduate course &amp;ldquo;Conversational AI&amp;rdquo;!&lt;/p&gt;&#xA;&lt;p&gt;UNDER CONSTRUCTION&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
