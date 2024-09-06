@@ -45,7 +45,7 @@ languages:
           url: https://brightspace.ru.nl/
 
   fr:
-    languageName: ":zh:"
+    languageName: "中文"
     weight: 2
     taxonomies:
       category: categories
