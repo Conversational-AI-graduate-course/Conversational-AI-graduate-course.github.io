@@ -29,9 +29,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Seminar overview
-          url: archives
-          weight: 5
         - name: Reading
           url: search/
           weight: 10
@@ -154,7 +151,9 @@ params:
     Content: >
       👋 Welcome to the graduate course on Conversational AI at Radboud University, Netherlands!
 
+
       - Here you find course materials of each seminar, an extended reading list, and information about the main practical components of the course: desiging, building, and evaluating conversational technology.
+
 
       - Don't forget to check out the course [Github repository](https://github.com/orgs/Conversational-AI-graduate-course/repositories)!
 
@@ -164,13 +163,13 @@ params:
       url: "https://github.com/orgs/Conversational-AI-graduate-course/repositories"
     - name: Mastodon
       title: Join the mastodon community
-      url: "https://discord.gg/ahpmTvhVmp"
+      url: "https://mastodon.social/@dingemansemark@scholar.social"
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/a-liesenfeld"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/orgs/Conversational-AI-graduate-course/repositories"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
