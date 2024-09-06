@@ -33,13 +33,13 @@ languages:
           url: reading/
           weight: 5
         - name: Designing
-          url: tags/
+          url: designing/
           weight: 6
         - name: Building
-          url: tags/
+          url: building/
           weight: 7
         - name: Evaluating
-          url: tags/
+          url: evaluating/
           weight: 8
         - name: Brightspace
           url: https://brightspace.ru.nl/
