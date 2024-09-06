@@ -44,7 +44,7 @@ languages:
         - name: Brightspace
           url: https://brightspace.ru.nl/
 
-  fr:
+  zh:
     languageName: "中文"
     weight: 2
     taxonomies:
@@ -84,25 +84,6 @@ languages:
             url: posts
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
 
 outputs:
   home:
