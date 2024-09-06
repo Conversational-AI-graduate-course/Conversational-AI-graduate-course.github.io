@@ -30,7 +30,7 @@ languages:
     menu:
       main:
         - name: Reading
-          url: search/
+          url: reading/
           weight: 5
         - name: Designing
           url: tags/
@@ -147,9 +147,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Conversational AI"
+    Title: "Welcome!"
     Content: >
-      👋 Welcome to the graduate course on Conversational AI at Radboud University, Netherlands!
+      👋 Welcome to the graduate course on Conversational AI at Radboud University, The Netherlands!
 
 
       - Here you find course materials, an extended reading list, and information about the main practical components of the course: desiging, building, and evaluating conversational technology.
