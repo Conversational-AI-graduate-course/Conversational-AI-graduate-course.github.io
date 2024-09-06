@@ -1,5 +1,4 @@
 +++
-kind = page
 draft = false
 Weight = 1
 +++
