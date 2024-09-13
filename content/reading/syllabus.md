@@ -3,4 +3,4 @@ draft = false
 weight = 2
 +++
 
-[Course syllabus](syllabus2024.pdf)
+https://conversational-ai-graduate-course.github.io/syllabus2024.pdf
