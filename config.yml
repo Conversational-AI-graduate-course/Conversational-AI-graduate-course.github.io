@@ -86,8 +86,6 @@ outputs:
     - HTML
     - RSS
     - JSON
-  section:
-    - RSS
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
