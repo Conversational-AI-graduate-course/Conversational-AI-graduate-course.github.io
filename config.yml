@@ -13,7 +13,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-ShowFullTextinRSS: true
 mainsections: ["posts", "papermod"]
 
 minify:
@@ -96,17 +95,18 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
-  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowReadingTime: false
   # disableSpecial1stPost: true
-  displayFullLangName: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
+  displayFullLangName: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: false
+  ShowFullTextinRSS: true
   ShowAllPagesInArchive: true
-  ShowPageNums: true
-  ShowToc: true
+  ShowPageNums: false
+  ShowToc: false
   # comments: false
   images: ["images/papermod-cover.png"]
 
