@@ -4,7 +4,9 @@ baseURL: 'https://conversational-AI-graduate-course.github.com/'
 title: Conversational AI graduate course
 copyright: "© [2024 by Andreas Liesenfeld](https://www.ru.nl/personen/liesenfeld-a)"
 paginate: 5
-theme: hugo-embed-pdf-shortcode, papermod
+theme:
+  - hugo-embed-pdf-shortcode
+  - papermod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
