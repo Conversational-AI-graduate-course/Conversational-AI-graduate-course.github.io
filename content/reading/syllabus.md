@@ -8,7 +8,7 @@ weight = 2
 The syllabus provides a more detailed overview of the course design and a timetable of all scheduled seminars, exams, and project work deadlines.  
 {{< embed-pdf url="syllabus2024.pdf" >}}
 
-## 1. Foundational readings
+## Foundational readings
 
 #### Seminar 1 "The interactive foundations of language"
 
@@ -30,3 +30,12 @@ This seminar is a primer to the science of human interaction and language use.
 {{< embed-pdf url="https://pure.mpg.de/rest/items/item_3174137_4/component/file_3174145/content" >}}
 
 #### Seminar 4 "Conversational structures"
+
+#### Seminar 5 "Timing"
+
+#### Seminar 6 "The action problem"
+
+
+## Conversation design
+
+## Dialog modeling
