@@ -20,7 +20,7 @@ We will begin with thinking about how language is shaped by and for interaction.
 
 In this seminar we retrace the historical academic discourse on "machine intelligence" and read seminal work by Alan Turing that continues to shape how we think about artificial intelligence.
 
-{{< embed-pdf url="https://pure.mpg.de/rest/items/item_3530697_3/component/file_3558979/content" >}}
+{{< embed-pdf url="https://academic.oup.com/mind/article-pdf/LIX/236/433/30123314/lix-236-433.pdf" >}}
 
 
 #### Seminar 3 "The science of human interaction"
