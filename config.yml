@@ -129,8 +129,7 @@ params:
   homeInfoParams:
     Title: "Welcome!"
     Content: |
-      👋 Welcome to the graduate course "Conversational AI" (LET-REMA-LCEX33) at Radboud University, The Netherlands!<br><br>
-
+      👋 Welcome to the graduate course "Conversational AI" (LET-REMA-LCEX33) at Radboud University, The Netherlands!
 
       Here you find course materials, an extended reading list, and information about the main practical components of the course: desiging, building, and evaluating conversational technology.<br><br>
 
